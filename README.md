@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parfax&layout=compact&bg_color=125,#222,#555)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parfax&layout=compact&bg_color=#555)]()
 
 ### Follow Me on
 [![Instagram](https://img.shields.io/badge/Instagram-232323?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/ze_kesha/)
